@@ -24,8 +24,9 @@
   <img align="left" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhannuryadi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="farhannuryadi" />
 </p>
 <p>
-  <img align="left" width="500" src="https://github-readme-stats.vercel.app/api?username=farhannuryadi" alt="farhannuryadi" />
+  <img align="left" width="500" src="https://github-readme-stats.vercel.app/api?username=farhannuryadi&show_icons=true&locale=en&theme=tokyonight" alt="farhannuryadi" />
 </p>
 <p>
   <img align="left" width="500" src="https://github-readme-streak-stats.herokuapp.com?user=farhannuryadi&theme=tokyonight" alt="farhannuryadi" />
 </p>
+
