@@ -36,5 +36,8 @@
 <br>
 
 ## Snake
-![snake gif](https://github.com/farhannuryadi/farhannuryadi/blob/output/github-contribution-grid-snake.gif)
+<p>
+  <img align="left" width="500" src="https://github.com/farhannuryadi/farhannuryadi/blob/output/github-contribution-grid-snake.gif" alt="contribution" />
+</p>
+<!-- ![snake gif](https://github.com/farhannuryadi/farhannuryadi/blob/output/github-contribution-grid-snake.gif) -->
 
