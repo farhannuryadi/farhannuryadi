@@ -35,6 +35,6 @@
 
 <h3 align="left">Snake </h3>
 <p>
-  <img align="left" width="500" height="50" src="https://github.com/farhannuryadi/farhannuryadi/blob/output/github-contribution-grid-snake.gif" alt="contribution" />
+  <img align="left" width="500" height="200" src="https://github.com/farhannuryadi/farhannuryadi/blob/output/github-contribution-grid-snake.gif" alt="contribution" />
 </p>
 
