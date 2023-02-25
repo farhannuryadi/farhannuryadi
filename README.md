@@ -32,6 +32,6 @@
   <img align="left" width="500" src="https://github-readme-streak-stats.herokuapp.com?user=farhannuryadi&theme=tokyonight" alt="farhannuryadi" />
 </p> -->
 
-<h3 align="left">Snake Contribution</h3>
+## Snake
 ![snake gif](https://github.com/farhannuryadi/farhannuryadi/blob/output/github-contribution-grid-snake.gif)
 
