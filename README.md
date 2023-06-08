@@ -23,7 +23,7 @@
 ## 📊 My Github Stats
 
   <div>
-    <a><img alt="farhannuryadi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=farhannuryadi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<!--     <a><img alt="farhannuryadi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=farhannuryadi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
   <a href="https://github.com/farhannuryadi/github-readme-stats"><img alt="farhannuryadi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhannuryadi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
   </div>
