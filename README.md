@@ -36,7 +36,7 @@
 </p>
 
 <br>
-
-<a><img align="left" src="https://github.com/farhannuryadi/farhannuryadi/blob/output/github-contribution-grid-snake.gif" alt="contribution" /></a>
+<!-- 
+<a><img align="left" src="https://github.com/farhannuryadi/farhannuryadi/blob/output/github-contribution-grid-snake.gif" alt="contribution" /></a> -->
 
 
